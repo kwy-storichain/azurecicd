@@ -1,2 +1,0 @@
-# azurecicd
-# azurecicd
